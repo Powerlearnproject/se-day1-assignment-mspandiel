@@ -6,6 +6,13 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Software engineering is a form of problem-solving using software solutions. It focuses on the following:
+Security:
+There is sensitive data that is captured, processed, stored and retirieved. Unintended access is a no no
+
+Reliability:
+Software 
+
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
