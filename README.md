@@ -11,7 +11,7 @@ Security:
 There is sensitive data that is captured, processed, stored and retirieved. Unintended access is a no no
 
 Reliability:
-Software 
+Software needs to not crash first and foremost. It is digital clockwork, at any given moment in time it should be able to do what you ask it to at whatever time and whatever place
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
