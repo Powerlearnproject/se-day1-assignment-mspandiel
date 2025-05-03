@@ -8,13 +8,22 @@ Explain what software engineering is and discuss its importance in the technolog
 
 Software engineering is a form of problem-solving using software solutions. It focuses on the following:
 Security:
-There is sensitive data that is captured, processed, stored and retirieved. Unintended access is a no no
+There is sensitive data that is captured, processed, stored and retirieved. Unintended access is a no no.
+2FA, Biometrics are modern advancements, but for example sake, OTP's, encrypting/decrypting data (so that it is safe, even on insecure connections) and even producing your ID are classic examples of security practices.
 
 Reliability:
-Software needs to not crash first and foremost. It is digital clockwork, at any given moment in time it should be able to do what you ask it to at whatever time and whatever place
+Software needs to not crash first and foremost. It is digital clockwork, at any given moment in time it should be able to do what you ask it to at whatever time and whatever place. Secure software is reliable. Reliable software is secure. Interconnected concepts but own topics and methodologies in their own right.
+
+Effiency:
+Software needs to be effient. When we think of effiency we think of fast input, fast output. To a developer though, efficient software is using minimal resources at all times. With efficiency to development, things like and IDE helps speed up the workflow.. I used to code using terminal and a plain text editor. Letting a program pick up silly mistakes helps you focus on what is important, actual development
+
+Scalability & flexibility:
+Probably one of the most challenging topics in COS and software engineering. Developing in such a manner that increased load does not hinder performance. Think of how many nights the big 4 (Google, Apple, Facebook & Amazon) had to sacrifice to meet demand. It's not a straight line, demand comes is hyperbolic in nature
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
+
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
